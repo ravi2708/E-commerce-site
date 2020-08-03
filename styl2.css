@@ -1,0 +1,117 @@
+footer{
+
+    background: #333;
+    padding: 10px;
+
+}
+
+footer .flex{
+    padding-bottom: 10px;
+    border-bottom: 1px solid #777;
+}
+
+
+footer h5.follow-us{
+    margin-top: 1rem;
+}
+
+footer .footer-about{
+	color:#ffffff;
+    width: 47%;
+}
+
+
+
+footer .footer-subscribe{
+	color:#ffffff;
+    width: 35%;
+}
+
+#subscribe-container{
+    position: relative;
+}
+
+footer .footer-subscribe ul{
+
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+
+}
+
+footer .footer-subscribe ul li{
+
+    display: inline-block;
+    margin: 0 16px;
+
+}
+
+footer .footer-subscribe ul li :first-child{
+    margin-left: 0;
+}
+
+ footer .footer-subscribe ul li a{
+    text-decoration: none;
+    color: yellow;
+ }
+
+ footer .footer-subscribe ul li a:hover{
+    color: #fff;
+ }
+
+footer small{
+
+    margin-top: 3rem;
+    font-size: 1rem;
+    display: block;
+    text-align: center;
+
+}
+
+#address-container{
+
+    width: 38%;
+    background: #333;
+    padding: 1.5rem;
+    box-sizing: border-box;
+    height: 300px;
+
+}
+
+#address-container label{
+
+      font-weight: 700;
+    display: block;
+    margin-top: 2rem;
+
+}
+
+#address-container label:first-child{
+
+    margin-top: 0;
+}
+
+#address-container address{
+
+    margin-bottom: 1.5rem;
+    font-style: normal;
+
+}
+
+#address-container h5{
+
+    text-decoration: none;
+    color: #f69314;
+
+
+}
+
+#address-container a:hover{
+    text-decoration: underline;
+}
+
+
+
+
+
+
